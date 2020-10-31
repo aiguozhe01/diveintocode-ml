@@ -1,1 +1,4 @@
 .DS_Store
+.idea
+tools.yml
+Project/project_env/
